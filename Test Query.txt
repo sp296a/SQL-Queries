@@ -7,3 +7,5 @@ INSERT INTO todo_list VALUES (4, "Wash the Dog", 60);
 
 SELECT SUM(MINUTES)
 FROM TODO_LIST
+
+test test
